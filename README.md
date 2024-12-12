@@ -5,7 +5,7 @@
 [![Documentation](https://img.shields.io/badge/Documentation-memary-428BCA?style=flat&logo=open-book)](https://kingjulio8238.github.io/memarydocs/)
 [![Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/GnUU3_xK6bg)
 [![PyPI](https://img.shields.io/pypi/v/memary.svg?style=flat&color=orange)](https://pypi.org/project/memary/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 ## Manage Your Agent Memories
