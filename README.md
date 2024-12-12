@@ -2,7 +2,6 @@
   <img alt="memary_logo" src="diagrams/memary-logo-latest.png">
 </p>
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FMemary_Agent&style=flat&label=Twitter&color=fa5252)
 [![Documentation](https://img.shields.io/badge/Documentation-memary-428BCA?style=flat&logo=open-book)](https://kingjulio8238.github.io/memarydocs/)
 [![Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/GnUU3_xK6bg)
 [![PyPI](https://img.shields.io/pypi/v/memary.svg?style=flat&color=orange)](https://pypi.org/project/memary/)
