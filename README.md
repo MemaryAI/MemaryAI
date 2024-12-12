@@ -7,7 +7,7 @@
 [![PyPI](https://img.shields.io/pypi/v/memary.svg?style=flat&color=orange)](https://pypi.org/project/memary/)
 
 
-
+We've launched on Solana, CA：4ARo5yvdWVA7LEBGkVRsCf4NXhGgYWkttdc3zkwfpump
 ## Manage Your Agent Memories
 
 Agents promote human-type reasoning and are a great advancement towards building AGI and understanding ourselves as humans. Memory is a key component of how humans approach tasks and should be weighted the same when building AI agents. **memary emulates human memory to advance these agents.**
